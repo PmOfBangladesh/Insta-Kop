@@ -1,0 +1,15 @@
+{
+  "history": [
+    {
+      "hour": "2026-03-25 15:00",
+      "ip": "unknown",
+      "location": "unknown",
+      "total_live": 0,
+      "total_suspended": 6,
+      "total_submitted": 0,
+      "total_connected_time": 325,
+      "ok": 0,
+      "fail": 10
+    }
+  ]
+}
